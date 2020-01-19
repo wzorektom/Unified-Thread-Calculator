@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thread Calculator", "Thread Calculator\Thread Calculator.csproj", "{19077233-4C62-4FA0-9470-C82D68FA5B0F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{D86A42AD-78FC-4A19-AD5D-139386DEAFA7} = {D86A42AD-78FC-4A19-AD5D-139386DEAFA7}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadCalculatorClassLibrary", "ThreadCalculatorClassLibrary\ThreadCalculatorClassLibrary.csproj", "{D86A42AD-78FC-4A19-AD5D-139386DEAFA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19077233-4C62-4FA0-9470-C82D68FA5B0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19077233-4C62-4FA0-9470-C82D68FA5B0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19077233-4C62-4FA0-9470-C82D68FA5B0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19077233-4C62-4FA0-9470-C82D68FA5B0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D86A42AD-78FC-4A19-AD5D-139386DEAFA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D86A42AD-78FC-4A19-AD5D-139386DEAFA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D86A42AD-78FC-4A19-AD5D-139386DEAFA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D86A42AD-78FC-4A19-AD5D-139386DEAFA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {195F9244-2AE1-4F19-A1B9-9B1F5BD534D7}
+	EndGlobalSection
+EndGlobal

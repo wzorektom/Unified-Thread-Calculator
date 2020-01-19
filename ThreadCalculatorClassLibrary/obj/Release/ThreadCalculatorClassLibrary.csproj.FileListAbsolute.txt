@@ -1,0 +1,26 @@
+C:\Users\twzorek\Desktop\Apps Development\In Progress\Thread Calculator - Display Results - Correction\ThreadCalculatorClassLibrary\bin\Release\ThreadCalculatorClassLibrary.dll
+C:\Users\twzorek\Desktop\Apps Development\In Progress\Thread Calculator - Display Results - Correction\ThreadCalculatorClassLibrary\bin\Release\ThreadCalculatorClassLibrary.pdb
+C:\Users\twzorek\Desktop\Apps Development\In Progress\Thread Calculator - Display Results - Correction\ThreadCalculatorClassLibrary\obj\Release\ThreadCalculatorClassLibrary.dll
+C:\Users\twzorek\Desktop\Apps Development\In Progress\Thread Calculator - Display Results - Correction\ThreadCalculatorClassLibrary\obj\Release\ThreadCalculatorClassLibrary.pdb
+C:\Users\twzorek\Desktop\Apps Development\Finished\Thread Calculator\ThreadCalculatorClassLibrary\bin\Release\ThreadCalculatorClassLibrary.dll
+C:\Users\twzorek\Desktop\Apps Development\Finished\Thread Calculator\ThreadCalculatorClassLibrary\bin\Release\ThreadCalculatorClassLibrary.pdb
+C:\Users\twzorek\Desktop\Apps Development\Finished\Thread Calculator\ThreadCalculatorClassLibrary\obj\Release\ThreadCalculatorClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\twzorek\Desktop\Apps Development\Finished\Thread Calculator\ThreadCalculatorClassLibrary\obj\Release\ThreadCalculatorClassLibrary.dll
+C:\Users\twzorek\Desktop\Apps Development\Finished\Thread Calculator\ThreadCalculatorClassLibrary\obj\Release\ThreadCalculatorClassLibrary.pdb
+J:\Engineering Team\apps\scripts\Tomasz Wzorek\Development\Finished\Thread Calculator\ThreadCalculatorClassLibrary\bin\Release\ThreadCalculatorClassLibrary.dll
+J:\Engineering Team\apps\scripts\Tomasz Wzorek\Development\Finished\Thread Calculator\ThreadCalculatorClassLibrary\bin\Release\ThreadCalculatorClassLibrary.pdb
+J:\Engineering Team\apps\scripts\Tomasz Wzorek\Development\Finished\Thread Calculator\ThreadCalculatorClassLibrary\obj\Release\ThreadCalculatorClassLibrary.csprojResolveAssemblyReference.cache
+J:\Engineering Team\apps\scripts\Tomasz Wzorek\Development\Finished\Thread Calculator\ThreadCalculatorClassLibrary\obj\Release\ThreadCalculatorClassLibrary.csproj.CoreCompileInputs.cache
+J:\Engineering Team\apps\scripts\Tomasz Wzorek\Development\Finished\Thread Calculator\ThreadCalculatorClassLibrary\obj\Release\ThreadCalculatorClassLibrary.dll
+J:\Engineering Team\apps\scripts\Tomasz Wzorek\Development\Finished\Thread Calculator\ThreadCalculatorClassLibrary\obj\Release\ThreadCalculatorClassLibrary.pdb
+D:\GitHubRepositiories\Thread Calculator v.1.1.0.0\ThreadCalculatorClassLibrary\bin\Release\ThreadCalculatorClassLibrary.dll
+D:\GitHubRepositiories\Thread Calculator v.1.1.0.0\ThreadCalculatorClassLibrary\bin\Release\ThreadCalculatorClassLibrary.pdb
+D:\GitHubRepositiories\Thread Calculator v.1.1.0.0\ThreadCalculatorClassLibrary\obj\Release\ThreadCalculatorClassLibrary.csproj.CoreCompileInputs.cache
+D:\GitHubRepositiories\Thread Calculator v.1.1.0.0\ThreadCalculatorClassLibrary\obj\Release\ThreadCalculatorClassLibrary.dll
+D:\GitHubRepositiories\Thread Calculator v.1.1.0.0\ThreadCalculatorClassLibrary\obj\Release\ThreadCalculatorClassLibrary.pdb
+D:\Git\Unified Thread Calculator\ThreadCalculatorClassLibrary\bin\Release\ThreadCalculatorClassLibrary.dll
+D:\Git\Unified Thread Calculator\ThreadCalculatorClassLibrary\bin\Release\ThreadCalculatorClassLibrary.pdb
+D:\Git\Unified Thread Calculator\ThreadCalculatorClassLibrary\obj\Release\ThreadCalculatorClassLibrary.csprojAssemblyReference.cache
+D:\Git\Unified Thread Calculator\ThreadCalculatorClassLibrary\obj\Release\ThreadCalculatorClassLibrary.csproj.CoreCompileInputs.cache
+D:\Git\Unified Thread Calculator\ThreadCalculatorClassLibrary\obj\Release\ThreadCalculatorClassLibrary.dll
+D:\Git\Unified Thread Calculator\ThreadCalculatorClassLibrary\obj\Release\ThreadCalculatorClassLibrary.pdb

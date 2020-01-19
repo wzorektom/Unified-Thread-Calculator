@@ -1,0 +1,22 @@
+D:\Git\Unified Thread Calculator1\Thread Calculator\bin\Debug\Unified Thread Calculator.exe.config
+D:\Git\Unified Thread Calculator1\Thread Calculator\bin\Debug\Unified Thread Calculator.exe.manifest
+D:\Git\Unified Thread Calculator1\Thread Calculator\bin\Debug\Unified Thread Calculator.application
+D:\Git\Unified Thread Calculator1\Thread Calculator\bin\Debug\Unified Thread Calculator.exe
+D:\Git\Unified Thread Calculator1\Thread Calculator\bin\Debug\Unified Thread Calculator.pdb
+D:\Git\Unified Thread Calculator1\Thread Calculator\bin\Debug\ThreadCalculatorClassLibrary.dll
+D:\Git\Unified Thread Calculator1\Thread Calculator\bin\Debug\ThreadCalculatorClassLibrary.pdb
+D:\Git\Unified Thread Calculator1\Thread Calculator\obj\Debug\Thread Calculator.csprojAssemblyReference.cache
+D:\Git\Unified Thread Calculator1\Thread Calculator\obj\Debug\Thread_Calculator.AboutBox.resources
+D:\Git\Unified Thread Calculator1\Thread Calculator\obj\Debug\Thread_Calculator.Allowances.resources
+D:\Git\Unified Thread Calculator1\Thread Calculator\obj\Debug\Thread_Calculator.Diagnostics.resources
+D:\Git\Unified Thread Calculator1\Thread Calculator\obj\Debug\Thread_Calculator.LoginForm.resources
+D:\Git\Unified Thread Calculator1\Thread Calculator\obj\Debug\Thread_Calculator.Reference_Table.resources
+D:\Git\Unified Thread Calculator1\Thread Calculator\obj\Debug\Thread_Calculator.Form1.resources
+D:\Git\Unified Thread Calculator1\Thread Calculator\obj\Debug\Thread_Calculator.Properties.Resources.resources
+D:\Git\Unified Thread Calculator1\Thread Calculator\obj\Debug\Thread Calculator.csproj.GenerateResource.cache
+D:\Git\Unified Thread Calculator1\Thread Calculator\obj\Debug\Unified Thread Calculator.TrustInfo.xml
+D:\Git\Unified Thread Calculator1\Thread Calculator\obj\Debug\Unified Thread Calculator.exe.manifest
+D:\Git\Unified Thread Calculator1\Thread Calculator\obj\Debug\Unified Thread Calculator.application
+D:\Git\Unified Thread Calculator1\Thread Calculator\obj\Debug\Thread Calculator.csproj.CopyComplete
+D:\Git\Unified Thread Calculator1\Thread Calculator\obj\Debug\Unified Thread Calculator.exe
+D:\Git\Unified Thread Calculator1\Thread Calculator\obj\Debug\Unified Thread Calculator.pdb

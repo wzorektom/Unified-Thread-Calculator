@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>file:///\\mbdatafs1\mbworld%24\Apps\Unified Thread Calculator/|C:\MyApps\|file:///\\mbdatafs1\mbworld%24\Apps\UTC DO NOT USE/|file:///\\mbdatafs1\engineering%24\Engineering\Applications\Published\Thread Calculator/|file:///\\mbdatafs1\engineering%24\Engineering\Applications\Testing\Thread Calculator/</PublishUrlHistory>
+    <InstallUrlHistory>file:///\\mbdatafs1\engineering%24\Engineering\Applications\Published\Thread Calculator/|file:///\\mbdatafs1\engineering%24\Engineering\Applications\Testing\Thread Calculator/</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>
